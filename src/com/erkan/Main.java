@@ -3,7 +3,7 @@ package com.erkan;
 public class Main {
 
     public static void main(String[] args) {
-	// exampe stack
+	// example stack
         Stack myStack = new Stack(4);
         char stackObj;
 
