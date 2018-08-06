@@ -10,6 +10,7 @@ public class Stack {
         this.myStack  = new char[size];
         maxSize = size-1;
         top = -1;
+        System.out.println("h");
     }
 
     public void push(char obj){
