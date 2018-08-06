@@ -22,5 +22,7 @@ public class Main {
 
         //warning stack is empty
         stackObj = myStack.pop();
+
+        System.out.println("a");
     }
 }
