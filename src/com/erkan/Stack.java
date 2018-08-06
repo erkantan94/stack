@@ -8,7 +8,7 @@ public class Stack {
 
     public Stack(int size) {
         this.myStack  = new char[size];
-        maxSize = size;
+        maxSize = size-1;
         top = -1;
     }
 
